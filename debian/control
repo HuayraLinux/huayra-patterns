@@ -1,0 +1,14 @@
+Source: huayra-patterns
+Section: x11
+Priority: optional
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.4
+
+Package: huayra-patterns
+Depends: ${misc:Depends}, caja
+Architecture: all
+Description: Imágenes de fondo para Caja
+ En este paquete se encontraran las distintas imágenes
+ para el fondo de Caja.
+
