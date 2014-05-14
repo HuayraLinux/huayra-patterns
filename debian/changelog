@@ -1,3 +1,9 @@
+huayra-patterns (1.1) unstable; urgency=medium
+
+  * Nueva version de patterns.
+
+ -- Mauro <mauro@krott.org>  Wed, 14 May 2014 12:45:01 -0300
+
 huayra-patterns (1.0) unstable; urgency=low
 
   * Initial release.
